@@ -68,8 +68,8 @@ def main():
     print('Total time taken: ', end_time - start_time)
 
 
-if __name__ == '__main__':
-    main()
+    #if __name__ == '__main__':
+    #main()
 
 
     #colocando comentário para pull request
